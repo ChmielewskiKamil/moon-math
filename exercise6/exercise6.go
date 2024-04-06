@@ -1,6 +1,6 @@
 package main
 
-// Exercise 7 from Moon Math manual
+// Exercise 6 from Moon Math manual
 // Integer Long Division
 func longDivision(dividend, divisor int) (quotient int, remainder uint) {
 	if divisor == 0 {
